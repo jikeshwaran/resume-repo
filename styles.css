@@ -1,0 +1,34 @@
+*{
+    text-transform: capitalize;
+
+    
+}
+ 
+
+h1{
+    background-color:aqua;
+    text-align: center;
+    
+    
+}
+h2{
+    margin: 10px;
+ 
+}
+div,img{
+    
+    height: 200px;
+    width:200px ;
+    border-radius: 50%;
+    
+}
+
+p{
+    margin: 30px;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+ul,ol,p{
+    font-size: larger;
+}
